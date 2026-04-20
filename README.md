@@ -26,7 +26,7 @@ Those steps happen downstream, after the fitted thermo coefficients are passed i
 
 ## Scientific context
 
-This script was originally used to add TiH thermodynamics to a chemistry workflow because TiH was not available in the default thermo database being used. The partition-function input was based on Barklem & Collet (2016), and the resulting TiH behavior was checked against Burrows et al. (2005).
+This script was originally used for Iyer et al. 2023 and Iyer et al. 2026 to add TiH thermodynamics to a chemistry workflow because TiH was not available in the default thermo database being used. The partition-function input was based on Barklem & Collet (2016), and the resulting TiH behavior was checked against Burrows et al. (2005).
 
 ## References
 
