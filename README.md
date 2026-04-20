@@ -27,7 +27,8 @@ Those steps happen downstream, after the fitted thermo coefficients are passed i
 ## Scientific context
 
 This script was originally used for Iyer et al. 2023 and Iyer et al. 2026 to add TiH thermodynamics to a chemistry workflow because TiH was not available in the default thermo database being used. The partition-function input was based on Barklem & Collet (2016), and the resulting TiH behavior was checked against Burrows et al. (2005).
-
+https://iopscience.iop.org/article/10.3847/1538-4357/acabc2/meta
+https://iopscience.iop.org/article/10.3847/1538-4357/ae285d
 ## References
 
 - Barklem, P. S., & Collet, R. 2016, *Partition functions and equilibrium constants for diatomic molecules and atoms of astrophysical interest*, A&A, 588, A96. https://doi.org/10.1051/0004-6361/201526961
